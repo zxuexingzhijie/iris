@@ -128,3 +128,4 @@ python total/iris_association_rules.py
 - 数据可视化结果将保存在lab1目录下
 - 预处理后的数据将保存在lab2/data目录下
 - 每个算法模块可以独立运行，并会自动检查和加载需要的预处理数据 
+
